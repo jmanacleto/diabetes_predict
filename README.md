@@ -26,5 +26,3 @@ A estrutura da árvore de decisão foi visualizada para entender como o modelo t
 
 ## Visualização da Matriz de Confusão com Seaborn:
 Para o modelo SVM, a matriz de confusão foi plotada usando seaborn para uma representação visual mais clara das previsões corretas e incorretas.
-
-## Essa documentação resume os passos e técnicas utilizados para carregar dados, treinar modelos de aprendizado de máquina, avaliar seu desempenho e visualizar resultados importantes para análise e interpretação, utilizando recursos disponíveis no seu repositório do GitHub.
